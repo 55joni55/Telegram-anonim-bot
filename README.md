@@ -37,9 +37,9 @@ The administrator sees no sender data whatsoever:
 
 Install the dependency. The scripts are written for aiogram 2.x, so run the following command in your terminal:
 
-bash
+```
 - pip install aiogram
-
+```
 Before the first launch, be sure to open the script file and modify the following parameters:
 - TOKEN - insert your bot's token, obtained from @BotFather.
 - ACCOUNT_ID - enter your numeric user ID (you can get it from [@G5_55_5G_bot](https://t.me/G5_55_5Gs_bot)). This is the account that will receive all messages forwarded from users.
