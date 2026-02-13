@@ -8,28 +8,28 @@
 ## 📁 Anonim.py - Absolute Privacy
 A script for those who prioritize user confidentiality above all.
 
-🔐 The Core: COMPLETE ANONYMITY
-The administrator sees no sender data whatsoever:
+The Core: COMPLETE ANONYMITY
+- The administrator sees no sender data whatsoever:
  - First Name, Last Name, Username, Avatar, User ID
 
-👁️ Visible to the Admin:
+Visible to the Admin:
  - Content Type (text/photo/video), Message Content, Timestamp
 
-⚠️ Note:
+Note:
  - Telegram Premium stickers and emojis are not supported; they will appear as regular static stickers (losing animation and quality).
 
 
 ## 📁 Anonim_forward.py — The Illusion of Anonymity (Full Control)
  - A script for administrators who need to see everything while keeping users in the dark.
 
-🎭 How It Works:
+How It Works:
  - Users believe they are anonymous, but you see the maximum amount of data.
-
-👁️ What YOU (the admin) see:
+ 
+What the admin see:
  - First and Last Name, Username (@handle), Exact Timestamp, Full content and type, Forward restriction status (whether content is protected)
 
-🚀 Advantages
- Full Telegram Premium support:
+Advantages
+- Full Telegram Premium support:
  - Animated stickers in original quality, Premium emojis, Unique stickers and animations, All exclusive content from premium users
 
 
