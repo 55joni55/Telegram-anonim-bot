@@ -28,14 +28,14 @@ The administrator sees no sender data whatsoever:
  - Animated stickers in original quality, Premium emojis, Unique stickers and animations, All exclusive content from premium users
 
 
-⚙️ SETUP (for both scripts)
+⚙️ INSTALLATION & SETUP (for both scripts)
+
+Install the dependency. The scripts are written for aiogram 2.x, so run the following command in your terminal:
+
+bash
+- pip install aiogram
 
 Before the first launch, be sure to open the script file and modify the following parameters:
-
-TOKEN — insert your bot's token, obtained from @BotFather.
-
-ACCOUNT_ID — enter your numeric user ID (you can get it from @G5_55_5G_bot). This is the account that will receive all messages forwarded from users.
-
-start_command_gid  \
-                     you can customize the welcome text and the GIF animation that the bot sends in response to the /start command.
-start_command_text /
+- TOKEN - insert your bot's token, obtained from @BotFather.
+- ACCOUNT_ID - enter your numeric user ID (you can get it from @G5_55_5G_bot). This is the account that will receive all messages forwarded from users.
+- start_command_gid and start_command_text - you can customize the welcome text and the GIF animation that the bot sends in response to the /start command.
