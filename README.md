@@ -11,7 +11,7 @@ A script for those who prioritize user confidentiality above all.
 The Core: COMPLETE ANONYMITY
 - The administrator sees no sender data whatsoever:
  - First Name, Last Name, Username, Avatar, User ID
-
+ 
 Visible to the Admin:
  - Content Type (text/photo/video), Message Content, Timestamp
 
